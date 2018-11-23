@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<style type="text/css">
+		
+	body {
+    background-image: url("sky.jpg");
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+    text-align: right;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+
+
+
+	</style>
+	<title>Ikwues</title>
+	<link rel="stylesheet" type="text/css" href="website.css">
+    <link rel="stylesheet" type="text/css" href="ikwue.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
+
+
+
+</head>
+<body>
+
+<ul class="navbar1">
+  <li><a class="active" href="games.html">games</a></li>
+  <li><a href="picture-mainpage.html">gallery</a></li>
+    <li><a href="ikwues.html">home</a></li>
+     <li><a href="the-area.html">about the area</a></li>
+
+</ul>
+<div class="title">
+	<h1>The Ikwue's</h1>
+</div>
+
+<div id="map" style="width:1575px;height:400px;background:yellow"></div>
+
+<script>
+function myMap() {
+var mapOptions = {
+    center: new google.maps.LatLng(51.5, -0.12),
+    zoom: 10,
+    mapTypeId: google.maps.MapTypeId.HYBRID
+}
+var map = new google.maps.Map(document.getElementById("map"), mapOptions);
+}
+
+
+</script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDrRqsMAXbcR11ROBgo6yAZ3PKnRsWocFA&callback=myMap"></script>
+
+
+<div class="header"> 
+<h1>About Us</h1>
+</div>
+<div class="text">
+<p>The ikwues are a family that live in watford(or you could call it abbots langely. The family members include: Betina, Robert and Amelia.</p>
+<p>the children are currently attending parmiters school and orchard Primary and are 11 and 12</p>
+</div>
+
+<div class="header">
+	<p>a website that my dad has created</p>
+
+</div>
+
+<div class="links">
+  <a href="http://www.right4job.com">right4job.com</a>
+
+</div>
+<img src="ting.png" width="600">
+
+<div class="header">
+	<p>my snapchat</p>
+
+</div>
+
+<div class="text2">
+	<p>roadmanikwue</p>
+	<text>Roadman ikwue</text>
+
+</div>
+
+<div class="header">
+    <p>check out my other webpage</p>
+</div>
+
+    <div class="links">
+         <a href="https://dprogrammers.wordpress.com/">my blog</a> 
+    </div>
+
+
+<div class="text2">
+	<p> The programmers name</p>
+	<p>Daniel Ikwue</p>
+</div>
+
+<div class="titlepage2">
+    <h2>Made by Daniel Ikwue, images by GOD KNOWS WHO, insperation, my mum</h2>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,175 @@
+.title {
+
+	 font-family: verdana;
+	 font-size: 32px;
+	 text-align: center;
+
+
+}
+.header {
+
+	font-family: sans-serif;
+	font-size: 32px;
+	text-align: center;
+	font-weight: bolder;
+    padding:1px;
+    color:#d1bfbf;
+
+
+}
+
+.text {
+
+	font-family: verdana;
+	font-size:18px;
+	font-weight: bold;
+
+}
+
+.links {
+
+	font-family: verdana;
+	font-size:21px;
+	color: black;
+	font-weight: bold;
+
+}
+
+.text2 {
+	font-family: verdana;
+	font-size: 18px;
+	color: lightgreen;
+	font-weight: bold;
+
+
+}
+
+.button {
+
+	font-family: Comic Sans MS;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: right;
+	color: white;
+
+
+}
+
+.backbutton {
+
+	font-family: Comic Sans MS;
+	font-size: 18px;
+	font-weight: bold;
+	color: red;
+
+}
+
+.titlepage2 {
+
+	 font-family: verdana;
+	 font-size: 32px;
+	 text-align: center;
+	 color: red;
+
+
+}
+
+.header2 {
+
+	font-family: Comic Sans MS;
+	font-size: 27px;
+	text-align: center;
+	font-weight: bolder;
+	color: white;
+
+
+}
+
+.text3 {
+
+	font-family: verdana;
+	font-size: 18px;
+	font-weight: bold;
+
+
+}
+
+.links2 {
+
+	font-family: Comic Sans MS;
+	font-size: 21px;
+	font-weight: bold;
+	text-align: center;
+
+}
+
+.images {
+
+ text-align: center;
+ width: 200px;
+
+
+
+}
+
+.pagebutton {
+
+	font-family: Comic Sans MS;
+	text-align: right;
+	font-size: 18px;
+	color: red;
+
+
+
+}
+
+.text4 {
+
+	font-weight: bold;
+	font-family: Comic Sans MS;
+	font-size: 19px;
+	color: white;
+	text-align: center;
+
+
+
+}
+
+.header3 {
+
+	font-family: Comic Sans MS;
+	font-size: 50px;
+	text-align: center;
+	font-weight: bolder;
+	color: red;
+
+
+}
+
+.breakout {
+
+    color: orange;
+	font-size: 32px;
+	font-weight: bold;
+	font-family: Comic Sans MS;
+	text-align: center;
+
+}
+
+.breakoutimg {
+
+	width: 3000px;
+	height: 800px;
+
+
+}
+
+.title2 {
+
+	 font-family: verdana;
+	 font-size: 32px;
+	 text-align: center;
+	 color: white;
+
+
+}
